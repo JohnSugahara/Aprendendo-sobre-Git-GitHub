@@ -207,7 +207,7 @@ Gist é uma ferramenta para criar uma espécie de pastebin de código para ser c
 **Nomenclatura GIT:**
 
 É comum encontrar no *git* log, algumas nomeclaturas, sendo elas como exemplo:
-![Imagem](TerminalImg)
+![Imagem](Terminal.png)
 ###### HEAD:
 Significa o commit mais atual, no caso o ultimo commit.
 ### main:
